@@ -1,3 +1,4 @@
+      //program for banker's algorithm using  C language
         #include <stdio.h>
             void main()
             {
